@@ -1,6 +1,7 @@
 # Can a Robot Ignore Air Resistance When Shooting a Basketball?
 
 Final project for **Math Concepts for Developers** (SoftUni, September 2026)
+
 Author: Georgi Ilkov
 
 ## About the project
